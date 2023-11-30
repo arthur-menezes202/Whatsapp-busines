@@ -1,2 +1,3 @@
 # Whatsapp-busines
-apenas um repositorio de demonstrção do projeto
+Repositorio de demonstração do funcionamento do Whatsapp busines
+
